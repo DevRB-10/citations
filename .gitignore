@@ -1,0 +1,3 @@
+#ignore le fichier de conf
+/inc/conf.php
+mailer.php
